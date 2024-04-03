@@ -1,0 +1,1048 @@
+id_sub,_class,id,display_name,title
+8,course_label,6368,JavaScript,JavaScript
+8,course_label,7450,React JS,React JS
+8,course_label,28016,Angular,Angular
+8,course_label,5306,CSS,CSS
+8,course_label,57548,Next.js,Next.js
+8,course_label,6148,HTML,HTML
+8,course_label,6928,Node.Js,Node.Js
+8,course_label,10230,ASP.NET Core,ASP.NET Core
+558,course_label,6594,Học máy,Học máy
+558,course_label,7380,Python,Python
+558,course_label,5374,Học sâu,Học sâu
+558,course_label,4624,Trí tuệ nhân tạo,Trí tuệ nhân tạo
+558,course_label,6874,Xử lý ngôn ngữ tự nhiên,Xử lý ngôn ngữ tự nhiên
+558,course_label,2146122,LangChain,LangChain
+558,course_label,5328,Phân tích dữ liệu,Phân tích dữ liệu
+558,course_label,7432,R (ngôn ngữ lập trình),R (ngôn ngữ lập trình)
+10,course_label,4470,Phát triển Android,Phát triển Android
+10,course_label,6292,Phát triển ứng dụng cho iOS,Phát triển ứng dụng cho iOS
+10,course_label,9884,React Native,React Native
+10,course_label,37860,Dart (ngôn ngữ lập trình),Dart (ngôn ngữ lập trình)
+10,course_label,7956,Swift,Swift
+10,course_label,13554,Kotlin,Kotlin
+10,course_label,5402,Phát triển ứng dụng mobile,Phát triển ứng dụng mobile
+10,course_label,131074,SwiftUI,SwiftUI
+12,course_label,6336,Java,Java
+12,course_label,4904,C# (programming language),C# (programming language)
+12,course_label,4908,C++ (ngôn ngữ lập trình),C++ (ngôn ngữ lập trình)
+12,course_label,7450,React JS,React JS
+12,course_label,5972,Go (ngôn ngữ lập trình),Go (ngôn ngữ lập trình)
+12,course_label,7856,Spring Framework,Spring Framework
+12,course_label,9174,C (ngôn ngữ lập trình),C (ngôn ngữ lập trình)
+12,course_label,6368,JavaScript,JavaScript
+14,course_label,8154,Unity,Unity
+14,course_label,5904,Nguyên tắc cơ bản về phát triển trò chơi,Nguyên tắc cơ bản về phát triển trò chơi
+14,course_label,4904,C# (programming language),C# (programming language)
+14,course_label,36020,Godot,Godot
+14,course_label,4908,C++ (ngôn ngữ lập trình),C++ (ngôn ngữ lập trình)
+14,course_label,4280,Phát triển trò chơi 3D,Phát triển trò chơi 3D
+14,course_label,25642,Phát triển trò chơi 2D,Phát triển trò chơi 2D
+14,course_label,109866,Unreal Engine Blueprints,Unreal Engine Blueprints
+16,course_label,6866,MySQL,MySQL
+16,course_label,5354,Database Management Systems (DBMS),Database Management Systems (DBMS)
+16,course_label,7866,SQL Server,SQL Server
+16,course_label,7258,PostgreSQL,PostgreSQL
+16,course_label,4556,Apache Kafka,Apache Kafka
+16,course_label,6804,MongoDB,MongoDB
+16,course_label,7040,Oracle SQL,Oracle SQL
+16,course_label,5356,Lập trình cơ sở dữ liệu,Lập trình cơ sở dữ liệu
+18,course_label,11778,Selenium WebDriver,Selenium WebDriver
+18,course_label,17090,Kiểm tra tự động hóa,Kiểm tra tự động hóa
+18,course_label,6336,Java,Java
+18,course_label,9618,Postman,Postman
+18,course_label,156426,Microsoft Playwright,Microsoft Playwright
+18,course_label,7660,Selenium Testing Framework,Selenium Testing Framework
+18,course_label,22062,Chứng chỉ CTFL của ISTQB,Chứng chỉ CTFL của ISTQB
+18,course_label,4570,Kiểm tra API,Kiểm tra API
+20,course_label,9252,Thuật toán,Thuật toán
+20,course_label,142360,Chứng chỉ nhà phát triển ứng dụng Kubernetes (CKAD),Chứng chỉ nhà phát triển ứng dụng Kubernetes (CKAD)
+20,course_label,155842,Phỏng vấn lập trình,Phỏng vấn lập trình
+20,course_label,7800,Kiến trúc phần mềm,Kiến trúc phần mềm
+20,course_label,9192,Microservices,Microservices
+20,course_label,7810,Các phương pháp thực hành phần mềm,Các phương pháp thực hành phần mềm
+20,course_label,157972,Phát triển web back-end,Phát triển web back-end
+20,course_label,4440,Giải thuật Java,Giải thuật Java
+362,course_label,5954,Git,Git
+362,course_label,6472,Kubernetes,Kubernetes
+362,course_label,6388,JIRA,JIRA
+362,course_label,158142,Kỹ nghệ gợi ý,Kỹ nghệ gợi ý
+362,course_label,5956,GitHub,GitHub
+362,course_label,27134,Confluence,Confluence
+362,course_label,47952,Terraform,Terraform
+362,course_label,5404,DevOps (Phát triển và vận hành),DevOps (Phát triển và vận hành)
+575,course_label,93657,Lập trình trực quan bằng Bubble,Lập trình trực quan bằng Bubble
+575,course_label,158078,Generative AI  (GenAI),Generative AI  (GenAI)
+575,course_label,157186,Microsoft Power Platform,Microsoft Power Platform
+575,course_label,20736,Microsoft Power Apps,Microsoft Power Apps
+575,course_label,8320,Thiết kế web,Thiết kế web
+575,course_label,37800,Phát triển ứng dụng,Phát triển ứng dụng
+575,course_label,583040,GPT tùy chỉnh / Trình tạo GPT,GPT tùy chỉnh / Trình tạo GPT
+575,course_label,158278,FlutterFlow,FlutterFlow
+26,course_label,5654,Nguyên tắc cơ bản về khởi nghiệp,Nguyên tắc cơ bản về khởi nghiệp
+26,course_label,5874,Freelancing,Freelancing
+26,course_label,6992,Kinh doanh online,Kinh doanh online
+26,course_label,4898,Chiến lược kinh doanh,Chiến lược kinh doanh
+26,course_label,158002,ChatGPT,ChatGPT
+26,course_label,7888,Startup,Startup
+26,course_label,4894,Kế hoạch kinh doanh,Kế hoạch kinh doanh
+26,course_label,6252,Marketing trên Instagram,Marketing trên Instagram
+28,course_label,7368,Diễn thuyết trước công chúng,Diễn thuyết trước công chúng
+28,course_label,7292,Kỹ năng thuyết trình,Kỹ năng thuyết trình
+28,course_label,8472,Viết,Viết
+28,course_label,5782,Viết truyện hư cấu,Viết truyện hư cấu
+28,course_label,4874,Giao tiếp kinh doanh,Giao tiếp kinh doanh
+28,course_label,4902,Viết bài thương mại,Viết bài thương mại
+28,course_label,4640,Tính quyết đoán,Tính quyết đoán
+28,course_label,5584,Văn hóa email và cách viết email,Văn hóa email và cách viết email
+30,course_label,6498,Năng lực lãnh đạo,Năng lực lãnh đạo
+30,course_label,6618,Kỹ năng quản lý,Kỹ năng quản lý
+30,course_label,6312,ISO 9001,ISO 9001
+30,course_label,7336,Quản lý dự án,Quản lý dự án
+30,course_label,4898,Chiến lược kinh doanh,Chiến lược kinh doanh
+30,course_label,7510,Quản lý nhà hàng,Quản lý nhà hàng
+30,course_label,9652,Quản lý chất lượng,Quản lý chất lượng
+30,course_label,6620,Đào tạo nhà quản lý,Đào tạo nhà quản lý
+32,course_label,11392,Bán hàng B2B,Bán hàng B2B
+32,course_label,7292,Kỹ năng thuyết trình,Kỹ năng thuyết trình
+32,course_label,6536,LinkedIn,LinkedIn
+32,course_label,5312,Dịch vụ khách hàng,Dịch vụ khách hàng
+32,course_label,5128,Gọi điện chào hàng,Gọi điện chào hàng
+32,course_label,155396,Quản lý bán hàng,Quản lý bán hàng
+32,course_label,6496,Tạo khách hàng tiềm năng,Tạo khách hàng tiềm năng
+32,course_label,4876,Phát triển kinh doanh,Phát triển kinh doanh
+34,course_label,157694,"ESG (Môi trường, Xã hội và Quản trị)","ESG (Môi trường, Xã hội và Quản trị)"
+34,course_label,8088,TOGAF,TOGAF
+34,course_label,6616,Tư vấn quản lý,Tư vấn quản lý
+34,course_label,560260,Chứng chỉ The Open Group: TOGAF Enterprise Architecture Foundation,Chứng chỉ The Open Group: TOGAF Enterprise Architecture Foundation
+34,course_label,4624,Trí tuệ nhân tạo,Trí tuệ nhân tạo
+34,course_label,2062102,IIBA Entry Certificate in Business Analysis (ECBA),IIBA Entry Certificate in Business Analysis (ECBA)
+34,course_label,36204,Biến đổi kỹ thuật số,Biến đổi kỹ thuật số
+34,course_label,10874,Tư duy thiết kế,Tư duy thiết kế
+36,course_label,16650,Quản lý kho vận,Quản lý kho vận
+36,course_label,13106,Chứng chỉ Lean Six Sigma Green Belt,Chứng chỉ Lean Six Sigma Green Belt
+36,course_label,73590,Chứng chỉ Lean Six Sigma Black Belt,Chứng chỉ Lean Six Sigma Black Belt
+36,course_label,8232,Kỹ năng trợ lý ảo,Kỹ năng trợ lý ảo
+36,course_label,9652,Quản lý chất lượng,Quản lý chất lượng
+36,course_label,156526,Quản lý vận hành,Quản lý vận hành
+36,course_label,10442,Tinh gọn,Tinh gọn
+36,course_label,51898,Chứng chỉ Lean Six Sigma Yellow Belt,Chứng chỉ Lean Six Sigma Yellow Belt
+38,course_label,7336,Quản lý dự án,Quản lý dự án
+38,course_label,7220,PMI PMBOK (Hướng dẫn về những kiến thức cốt lõi trong quản lý dự án của Viện Quản lý Dự án Hoa Kỳ),PMI PMBOK (Hướng dẫn về những kiến thức cốt lõi trong quản lý dự án của Viện Quản lý Dự án Hoa Kỳ)
+38,course_label,4940,PMI Certified Associate in Project Management (CAPM),PMI Certified Associate in Project Management (CAPM)
+38,course_label,7646,Scrum,Scrum
+38,course_label,4422,Agile,Agile
+38,course_label,61298,Chứng chỉ Scrum Master (PSM),Chứng chỉ Scrum Master (PSM)
+38,course_label,7302,PRINCE2,PRINCE2
+38,course_label,16128,Quyền sở hữu sản phẩm,Quyền sở hữu sản phẩm
+40,course_label,155728,Quản lý hợp đồng,Quản lý hợp đồng
+40,course_label,26164,GDPR,GDPR
+40,course_label,155376,Chứng chỉ chuyên gia quyền riêng tư thông tin (CIPP),Chứng chỉ chuyên gia quyền riêng tư thông tin (CIPP)
+40,course_label,14868,Luật doanh nghiệp,Luật doanh nghiệp
+40,course_label,5226,Luật hợp đồng,Luật hợp đồng
+40,course_label,25482,CNTT chăm sóc sức khỏe,CNTT chăm sóc sức khỏe
+40,course_label,157948,Tiếng Anh Pháp lý,Tiếng Anh Pháp lý
+40,course_label,12630,Bảo vệ dữ liệu,Bảo vệ dữ liệu
+44,course_label,7862,SQL,SQL
+44,course_label,5334,Mô hình hóa dữ liệu,Mô hình hóa dữ liệu
+44,course_label,5328,Phân tích dữ liệu,Phân tích dữ liệu
+44,course_label,9000,Phân tích kinh doanh,Phân tích kinh doanh
+44,course_label,7978,Tableau,Tableau
+44,course_label,6730,Excel,Excel
+44,course_label,29362,Data Analysis Expressions (DAX),Data Analysis Expressions (DAX)
+44,course_label,4864,Phân tích dữ liệu kinh doanh,Phân tích dữ liệu kinh doanh
+48,course_label,11114,Tuyển dụng và Thuê mướn,Tuyển dụng và Thuê mướn
+48,course_label,48040,Phân tích dữ liệu nhân sự,Phân tích dữ liệu nhân sự
+48,course_label,37806,Luật lao động,Luật lao động
+48,course_label,50568,Học tập và phát triển (L&D) doanh nghiệp,Học tập và phát triển (L&D) doanh nghiệp
+48,course_label,155880,Society for Human Resource Management Certified Professional (SHRM-CP),Society for Human Resource Management Certified Professional (SHRM-CP)
+48,course_label,5206,Quản lý xung đột,Quản lý xung đột
+48,course_label,5604,Trí tuệ cảm xúc,Trí tuệ cảm xúc
+48,course_label,9362,Sự đa dạng và hòa nhập,Sự đa dạng và hòa nhập
+50,course_label,39652,Ngành dầu khí,Ngành dầu khí
+50,course_label,20984,Kỹ thuật hóa học,Kỹ thuật hóa học
+50,course_label,8458,Sức khỏe và an toàn tại nơi làm việc,Sức khỏe và an toàn tại nơi làm việc
+50,course_label,4698,Hàng không,Hàng không
+50,course_label,5230,Kỹ thuật điều khiển,Kỹ thuật điều khiển
+50,course_label,10684,Đào tạo huấn luyện viên định hướng cuộc sống,Đào tạo huấn luyện viên định hướng cuộc sống
+50,course_label,11410,Phát triển thiết bị y tế,Phát triển thiết bị y tế
+50,course_label,15454,Kỹ thuật điện,Kỹ thuật điện
+354,course_label,5502,Dropshipping,Dropshipping
+354,course_label,26320,Dropshipping trên Shopify,Dropshipping trên Shopify
+354,course_label,5696,Etsy,Etsy
+354,course_label,7726,Shopify,Shopify
+354,course_label,5532,Thương mại điện tử,Thương mại điện tử
+354,course_label,7680,Bán hàng trên Amazon,Bán hàng trên Amazon
+354,course_label,552832,TikTok Shop,TikTok Shop
+354,course_label,4456,Amazon Kindle Direct Publishing (KDP),Amazon Kindle Direct Publishing (KDP)
+52,course_label,34972,Sáng tạo nội dung,Sáng tạo nội dung
+52,course_label,4456,Amazon Kindle Direct Publishing (KDP),Amazon Kindle Direct Publishing (KDP)
+52,course_label,6400,Ngành báo chí,Ngành báo chí
+52,course_label,7640,Viết và sáng tác kịch bản,Viết và sáng tác kịch bản
+52,course_label,7228,Xuất bản podcast,Xuất bản podcast
+52,course_label,533350,Leonardo.Ai,Leonardo.Ai
+52,course_label,7644,Scrivener,Scrivener
+52,course_label,8136,Tạo khóa học online,Tạo khóa học online
+58,course_label,37536,Bất động sản,Bất động sản
+58,course_label,4424,Cho thuê nhà trên Airbnb,Cho thuê nhà trên Airbnb
+58,course_label,5214,Xây dựng,Xây dựng
+58,course_label,21798,Thế chấp,Thế chấp
+58,course_label,5806,Mô hình hóa tài chính,Mô hình hóa tài chính
+58,course_label,156824,Kinh doanh dịch vụ công chứng,Kinh doanh dịch vụ công chứng
+58,course_label,13198,Marketing bất động sản,Marketing bất động sản
+58,course_label,7458,Đầu cơ bất động sản,Đầu cơ bất động sản
+60,course_label,156654,Kỹ năng nhập dữ liệu,Kỹ năng nhập dữ liệu
+60,course_label,6014,Viết đề xuất xin tài trợ,Viết đề xuất xin tài trợ
+60,course_label,158002,ChatGPT,ChatGPT
+60,course_label,8104,Phiên âm,Phiên âm
+60,course_label,10132,Viết tự do,Viết tự do
+60,course_label,548706,Chứng chỉ Rủi ro khí hậu và tính bền vững (SCR) GARP,Chứng chỉ Rủi ro khí hậu và tính bền vững (SCR) GARP
+60,course_label,5580,Điện tử,Điện tử
+60,course_label,36204,Biến đổi kỹ thuật số,Biến đổi kỹ thuật số
+530,course_label,4818,Ghi sổ sách kế toán,Ghi sổ sách kế toán
+530,course_label,7420,QuickBooks,QuickBooks
+530,course_label,14938,Kế toán tài chính,Kế toán tài chính
+530,course_label,5798,Nguyên tắc tài chính cơ bản,Nguyên tắc tài chính cơ bản
+530,course_label,6200,International Financial Reporting Standards (IFRS),International Financial Reporting Standards (IFRS)
+530,course_label,15104,TallyPrime (Tally.ERP),TallyPrime (Tally.ERP)
+530,course_label,128936,Kỳ thi chứng chỉ kế toán công chứng (CPA) thống nhất,Kỳ thi chứng chỉ kế toán công chứng (CPA) thống nhất
+530,course_label,5780,SAP FICO,SAP FICO
+532,course_label,156082,Tội phạm học,Tội phạm học
+532,course_label,157694,"ESG (Môi trường, Xã hội và Quản trị)","ESG (Môi trường, Xã hội và Quản trị)"
+532,course_label,157644,Kiểm soát nội bộ,Kiểm soát nội bộ
+532,course_label,7532,Quản lý rủi ro,Quản lý rủi ro
+532,course_label,6200,International Financial Reporting Standards (IFRS),International Financial Reporting Standards (IFRS)
+532,course_label,35308,Kiểm toán nội bộ,Kiểm toán nội bộ
+532,course_label,32146,Giao thương và thương mại,Giao thương và thương mại
+532,course_label,5162,Quản lý tuân thủ,Quản lý tuân thủ
+534,course_label,4782,Bitcoin,Bitcoin
+534,course_label,4792,Blockchain,Blockchain
+534,course_label,156762,Binance,Binance
+534,course_label,10404,Giao dịch theo thuật toán,Giao dịch theo thuật toán
+534,course_label,156618,NFT (Token không thể thay thế),NFT (Token không thể thay thế)
+534,course_label,5362,Giao dịch trong ngày,Giao dịch trong ngày
+534,course_label,6990,Kinh doanh chênh lệch giá online,Kinh doanh chênh lệch giá online
+534,course_label,28902,Giao dịch Bitcoin,Giao dịch Bitcoin
+536,course_label,6598,Kinh tế vĩ mô,Kinh tế vĩ mô
+536,course_label,6708,Kinh tế vi mô,Kinh tế vi mô
+536,course_label,10074,Stata,Stata
+536,course_label,5960,Kinh tế toàn cầu,Kinh tế toàn cầu
+536,course_label,5798,Nguyên tắc tài chính cơ bản,Nguyên tắc tài chính cơ bản
+536,course_label,5552,Kinh tế lượng,Kinh tế lượng
+536,course_label,157426,Kinh tế học hành vi,Kinh tế học hành vi
+536,course_label,7892,Thống kê,Thống kê
+540,course_label,6284,Nghiệp vụ ngân hàng đầu tư,Nghiệp vụ ngân hàng đầu tư
+540,course_label,5798,Nguyên tắc tài chính cơ bản,Nguyên tắc tài chính cơ bản
+540,course_label,4992,Chartered Financial Analyst (CFA),Chartered Financial Analyst (CFA)
+540,course_label,158002,ChatGPT,ChatGPT
+540,course_label,13602,Nghiệp vụ ngân hàng,Nghiệp vụ ngân hàng
+540,course_label,5800,Phân tích tài chính,Phân tích tài chính
+540,course_label,12734,Tài chính doanh nghiệp,Tài chính doanh nghiệp
+540,course_label,5804,Quản lý tài chính,Quản lý tài chính
+542,course_label,128934,Certified Financial Planner (CFP),Certified Financial Planner (CFP)
+542,course_label,155860,Chứng chỉ ANBIMA (Hiệp hội Thị trường Tài chính và Vốn Brazil),Chứng chỉ ANBIMA (Hiệp hội Thị trường Tài chính và Vốn Brazil)
+542,course_label,56782,Chứng chỉ kiểm toán viên nội bộ (CIA),Chứng chỉ kiểm toán viên nội bộ (CIA)
+542,course_label,5094,Chứng chỉ kế toán quản trị (CMA),Chứng chỉ kế toán quản trị (CMA)
+542,course_label,4324,Hiệp hội Kế toán Công chứng Anh quốc (ACCA),Hiệp hội Kế toán Công chứng Anh quốc (ACCA)
+542,course_label,8662,Lập kế hoạch tài chính,Lập kế hoạch tài chính
+542,course_label,13152,Thị trường tài chính,Thị trường tài chính
+542,course_label,80312,Chứng chỉ GARP Financial Risk Manager (FRM),Chứng chỉ GARP Financial Risk Manager (FRM)
+544,course_label,5806,Mô hình hóa tài chính,Mô hình hóa tài chính
+544,course_label,6730,Excel,Excel
+544,course_label,8004,Phân tích kỹ thuật (tài chính),Phân tích kỹ thuật (tài chính)
+544,course_label,6284,Nghiệp vụ ngân hàng đầu tư,Nghiệp vụ ngân hàng đầu tư
+544,course_label,4328,Kế toán,Kế toán
+544,course_label,5798,Nguyên tắc tài chính cơ bản,Nguyên tắc tài chính cơ bản
+544,course_label,7380,Python,Python
+544,course_label,5158,Định giá công ty,Định giá công ty
+546,course_label,6282,Đầu tư,Đầu tư
+546,course_label,8004,Phân tích kỹ thuật (tài chính),Phân tích kỹ thuật (tài chính)
+546,course_label,5868,Kinh doanh ngoại hối,Kinh doanh ngoại hối
+546,course_label,13152,Thị trường tài chính,Thị trường tài chính
+546,course_label,10404,Giao dịch theo thuật toán,Giao dịch theo thuật toán
+546,course_label,5362,Giao dịch trong ngày,Giao dịch trong ngày
+546,course_label,7012,Giao dịch quyền chọn,Giao dịch quyền chọn
+546,course_label,5810,Giao dịch tài chính,Giao dịch tài chính
+548,course_label,5780,SAP FICO,SAP FICO
+548,course_label,8492,Xero,Xero
+548,course_label,6730,Excel,Excel
+548,course_label,5806,Mô hình hóa tài chính,Mô hình hóa tài chính
+548,course_label,5284,Sửa đổi tín dụng,Sửa đổi tín dụng
+548,course_label,5706,Phân tích trong Excel,Phân tích trong Excel
+548,course_label,5800,Phân tích tài chính,Phân tích tài chính
+548,course_label,7140,Tài chính cá nhân,Tài chính cá nhân
+550,course_label,32726,Goods and Services Tax (GST),Goods and Services Tax (GST)
+550,course_label,4328,Kế toán,Kế toán
+550,course_label,47734,Thuế giá trị gia tăng (VAT),Thuế giá trị gia tăng (VAT)
+550,course_label,6114,Kinh doanh tại nhà,Kinh doanh tại nhà
+550,course_label,14938,Kế toán tài chính,Kế toán tài chính
+550,course_label,157912,Định giá chuyển nhượng nội bộ,Định giá chuyển nhượng nội bộ
+550,course_label,5654,Nguyên tắc cơ bản về khởi nghiệp,Nguyên tắc cơ bản về khởi nghiệp
+552,course_label,7140,Tài chính cá nhân,Tài chính cá nhân
+552,course_label,56782,Chứng chỉ kiểm toán viên nội bộ (CIA),Chứng chỉ kiểm toán viên nội bộ (CIA)
+552,course_label,8662,Lập kế hoạch tài chính,Lập kế hoạch tài chính
+552,course_label,7306,Cổ phần tư nhân,Cổ phần tư nhân
+552,course_label,156618,NFT (Token không thể thay thế),NFT (Token không thể thay thế)
+552,course_label,35308,Kiểm toán nội bộ,Kiểm toán nội bộ
+552,course_label,156264,Kế toán tiền lương,Kế toán tiền lương
+552,course_label,15876,Bảo hiểm,Bảo hiểm
+132,course_label,24774,Chứng chỉ kỹ sư giải pháp AWS cấp hội viên,Chứng chỉ kỹ sư giải pháp AWS cấp hội viên
+132,course_label,5176,CompTIA Security+,CompTIA Security+
+132,course_label,5166,CompTIA A+,CompTIA A+
+132,course_label,4452,Amazon AWS,Amazon AWS
+132,course_label,5044,Chứng chỉ mạng Cisco (CCNA) cấp hội viên,Chứng chỉ mạng Cisco (CCNA) cấp hội viên
+132,course_label,43860,Chứng chỉ nhà phát triển AWS cấp hội viên,Chứng chỉ nhà phát triển AWS cấp hội viên
+132,course_label,6238,Bảo mật thông tin,Bảo mật thông tin
+132,course_label,118634,AZ-900: Microsoft Azure Fundamentals,AZ-900: Microsoft Azure Fundamentals
+134,course_label,5316,An ninh mạng,An ninh mạng
+134,course_label,6906,Bảo mật mạng,Bảo mật mạng
+134,course_label,7110,Kiểm thử xâm nhập,Kiểm thử xâm nhập
+134,course_label,6472,Kubernetes,Kubernetes
+134,course_label,5174,CompTIA Network+,CompTIA Network+
+134,course_label,6322,Nền tảng căn bản về mạng CNTT,Nền tảng căn bản về mạng CNTT
+134,course_label,5190,Mạng máy tính,Mạng máy tính
+134,course_label,26450,Trí thông minh nguồn mở (OSINT),Trí thông minh nguồn mở (OSINT)
+136,course_label,4608,Arduino,Arduino
+136,course_label,5580,Điện tử,Điện tử
+136,course_label,6706,Vi điều khiển,Vi điều khiển
+136,course_label,5592,Hệ thống nhúng,Hệ thống nhúng
+136,course_label,12870,Ngôn ngữ C nhúng,Ngôn ngữ C nhúng
+136,course_label,7444,Raspberry Pi,Raspberry Pi
+136,course_label,15282,HMI (Giao diện người-máy),HMI (Giao diện người-máy)
+136,course_label,4986,Sửa chữa điện thoại di động,Sửa chữa điện thoại di động
+138,course_label,6542,Quản trị Linux,Quản trị Linux
+138,course_label,8410,Windows Server,Windows Server
+138,course_label,4352,Active Directory,Active Directory
+138,course_label,7720,Shell Scripting,Shell Scripting
+138,course_label,6746,PowerShell,PowerShell
+138,course_label,25604,Linux Command Line,Linux Command Line
+138,course_label,7964,Quản trị hệ thống,Quản trị hệ thống
+138,course_label,4484,Ansible,Ansible
+140,course_label,5404,DevOps (Phát triển và vận hành),DevOps (Phát triển và vận hành)
+140,course_label,7380,Python,Python
+140,course_label,6730,Excel,Excel
+140,course_label,6716,Microsoft Azure,Microsoft Azure
+140,course_label,158078,Generative AI  (GenAI),Generative AI  (GenAI)
+140,course_label,47952,Terraform,Terraform
+140,course_label,5470,Docker,Docker
+140,course_label,9192,Microservices,Microservices
+96,course_label,6736,Microsoft 365 (Office),Microsoft 365 (Office)
+96,course_label,6740,Microsoft Power BI,Microsoft Power BI
+96,course_label,6732,Excel VBA,Excel VBA
+96,course_label,6744,PowerPoint,PowerPoint
+96,course_label,52724,Các công thức và hàm trong Excel,Các công thức và hàm trong Excel
+96,course_label,7202,Pivot Table,Pivot Table
+96,course_label,5328,Phân tích dữ liệu,Phân tích dữ liệu
+96,course_label,6752,SharePoint,SharePoint
+98,course_label,6216,iMovie,iMovie
+98,course_label,4592,Apple Keynote,Apple Keynote
+98,course_label,6946,Numbers cho Mac,Numbers cho Mac
+98,course_label,6596,macOS,macOS
+98,course_label,11500,Mac Pages,Mac Pages
+98,course_label,27238,Kiến thức cơ bản về các sản phẩm của Apple,Kiến thức cơ bản về các sản phẩm của Apple
+98,course_label,5710,Trang tổng quan trong Excel,Trang tổng quan trong Excel
+98,course_label,6736,Microsoft 365 (Office),Microsoft 365 (Office)
+100,course_label,17980,Google Workspace (G Suite),Google Workspace (G Suite)
+100,course_label,26920,Google Looker Studio (Data Studio),Google Looker Studio (Data Studio)
+100,course_label,156474,Google AppSheet,Google AppSheet
+100,course_label,5964,Tăng năng suất làm việc với Gmail,Tăng năng suất làm việc với Gmail
+100,course_label,31442,Google Apps Script,Google Apps Script
+100,course_label,156774,Google Looker,Google Looker
+100,course_label,12200,Google Drive,Google Drive
+100,course_label,6730,Excel,Excel
+102,course_label,28396,SAP S/4HANA,SAP S/4HANA
+102,course_label,4312,SAP ABAP,SAP ABAP
+102,course_label,7608,SAP MM,SAP MM
+102,course_label,7612,SAP SD,SAP SD
+102,course_label,5780,SAP FICO,SAP FICO
+102,course_label,6074,SAP HCM,SAP HCM
+102,course_label,158276,SAP Business Technology Platform (SAP BTP),SAP Business Technology Platform (SAP BTP)
+102,course_label,155950,SAP Analytics Cloud,SAP Analytics Cloud
+106,course_label,7040,Oracle SQL,Oracle SQL
+106,course_label,54866,Oracle Fusion HCM,Oracle Fusion HCM
+106,course_label,7210,PL/SQL,PL/SQL
+106,course_label,7024,Oracle Database,Oracle Database
+106,course_label,5348,Quản trị cơ sở dữ liệu,Quản trị cơ sở dữ liệu
+106,course_label,156630,Oracle NetSuite,Oracle NetSuite
+106,course_label,7028,Oracle E-Business Suite,Oracle E-Business Suite
+106,course_label,115901,Oracle Fusion Financials,Oracle Fusion Financials
+108,course_label,7380,Python,Python
+108,course_label,11944,Nguyên tắc lập trình cơ bản,Nguyên tắc lập trình cơ bản
+108,course_label,155849,Notion Workspace,Notion Workspace
+108,course_label,7702,ServiceNow,ServiceNow
+108,course_label,11272,Kỹ năng máy tính,Kỹ năng máy tính
+108,course_label,6444,Cách đánh máy,Cách đánh máy
+108,course_label,156068,Cách ước tính vật liệu và chi phí xây dựng,Cách ước tính vật liệu và chi phí xây dựng
+108,course_label,583040,GPT tùy chỉnh / Trình tạo GPT,GPT tùy chỉnh / Trình tạo GPT
+142,course_label,6910,Lập trình ngôn ngữ tư duy,Lập trình ngôn ngữ tư duy
+142,course_label,15374,Chuyển hóa bản thân,Chuyển hóa bản thân
+142,course_label,7138,Phát triển cá nhân,Phát triển cá nhân
+142,course_label,23948,Liệu pháp âm thanh,Liệu pháp âm thanh
+142,course_label,6770,Chánh niệm,Chánh niệm
+142,course_label,39344,Cách cưỡi ngựa,Cách cưỡi ngựa
+142,course_label,5604,Trí tuệ cảm xúc,Trí tuệ cảm xúc
+142,course_label,5124,Cognitive Behavioral Therapy (CBT),Cognitive Behavioral Therapy (CBT)
+144,course_label,7142,Năng suất cá nhân,Năng suất cá nhân
+144,course_label,8074,Quản lý thời gian,Quản lý thời gian
+144,course_label,155849,Notion Workspace,Notion Workspace
+144,course_label,7042,Kỹ năng tổ chức,Kỹ năng tổ chức
+144,course_label,7320,Tính trì hoãn,Tính trì hoãn
+144,course_label,90760,Làm chủ khả năng tập trung,Làm chủ khả năng tập trung
+144,course_label,7840,Đọc hiểu nhanh,Đọc hiểu nhanh
+144,course_label,158122,Ứng dụng Obsidian,Ứng dụng Obsidian
+146,course_label,6618,Kỹ năng quản lý,Kỹ năng quản lý
+146,course_label,6620,Đào tạo nhà quản lý,Đào tạo nhà quản lý
+146,course_label,11098,Huấn luyện,Huấn luyện
+146,course_label,9362,Sự đa dạng và hòa nhập,Sự đa dạng và hòa nhập
+146,course_label,5156,Kỹ năng giao tiếp,Kỹ năng giao tiếp
+146,course_label,5206,Quản lý xung đột,Quản lý xung đột
+146,course_label,7486,Xây dựng mối quan hệ,Xây dựng mối quan hệ
+146,course_label,7368,Diễn thuyết trước công chúng,Diễn thuyết trước công chúng
+150,course_label,6276,Kỹ năng phỏng vấn,Kỹ năng phỏng vấn
+150,course_label,6328,Hỗ trợ CNTT / kỹ thuật,Hỗ trợ CNTT / kỹ thuật
+150,course_label,6392,Tìm việc,Tìm việc
+150,course_label,7514,Viết CV,Viết CV
+150,course_label,4874,Giao tiếp kinh doanh,Giao tiếp kinh doanh
+150,course_label,4902,Viết bài thương mại,Viết bài thương mại
+150,course_label,156466,Building Inspection,Building Inspection
+150,course_label,6536,LinkedIn,LinkedIn
+152,course_label,7486,Xây dựng mối quan hệ,Xây dựng mối quan hệ
+152,course_label,35312,Tâm lý học trẻ em,Tâm lý học trẻ em
+152,course_label,8918,Hôn nhân,Hôn nhân
+152,course_label,39648,Tư vấn cặp đôi,Tư vấn cặp đôi
+152,course_label,6574,Tình yêu,Tình yêu
+152,course_label,5156,Kỹ năng giao tiếp,Kỹ năng giao tiếp
+152,course_label,4670,Tự kỷ,Tự kỷ
+152,course_label,5358,Hẹn hò,Hẹn hò
+156,course_label,6062,Hạnh phúc,Hạnh phúc
+156,course_label,32062,Luật hấp dẫn và cách thực hiện,Luật hấp dẫn và cách thực hiện
+156,course_label,9490,Tâm lý học tích cực,Tâm lý học tích cực
+156,course_label,6910,Lập trình ngôn ngữ tư duy,Lập trình ngôn ngữ tư duy
+156,course_label,6522,Thành công cá nhân,Thành công cá nhân
+156,course_label,5124,Cognitive Behavioral Therapy (CBT),Cognitive Behavioral Therapy (CBT)
+156,course_label,24614,Tâm lý học,Tâm lý học
+156,course_label,55712,Chữa lành chấn thương tâm lý tuổi thơ,Chữa lành chấn thương tâm lý tuổi thơ
+577,course_label,5618,Chữa bệnh bằng năng lượng,Chữa bệnh bằng năng lượng
+577,course_label,7992,Bói bài Tarot,Bói bài Tarot
+577,course_label,7842,Chữa bệnh bằng tâm linh,Chữa bệnh bằng tâm linh
+577,course_label,6172,Liệu pháp thôi miên,Liệu pháp thôi miên
+577,course_label,4644,Chiêm tinh học,Chiêm tinh học
+577,course_label,7354,Ngoại cảm,Ngoại cảm
+577,course_label,7844,Tâm linh,Tâm linh
+577,course_label,4428,Tàng thư Akasha,Tàng thư Akasha
+158,course_label,10684,Đào tạo huấn luyện viên định hướng cuộc sống,Đào tạo huấn luyện viên định hướng cuộc sống
+158,course_label,7992,Bói bài Tarot,Bói bài Tarot
+158,course_label,6770,Chánh niệm,Chánh niệm
+158,course_label,5618,Chữa bệnh bằng năng lượng,Chữa bệnh bằng năng lượng
+158,course_label,7484,Reiki,Reiki
+158,course_label,7842,Chữa bệnh bằng tâm linh,Chữa bệnh bằng tâm linh
+158,course_label,8060,Kinh thánh,Kinh thánh
+158,course_label,5028,Cơ đốc giáo,Cơ đốc giáo
+160,course_label,9498,Họp hành,Họp hành
+160,course_label,6536,LinkedIn,LinkedIn
+160,course_label,4948,Phát triển sự nghiệp,Phát triển sự nghiệp
+160,course_label,4954,Mạng cá nhân,Mạng cá nhân
+160,course_label,7368,Diễn thuyết trước công chúng,Diễn thuyết trước công chúng
+160,course_label,7292,Kỹ năng thuyết trình,Kỹ năng thuyết trình
+160,course_label,5430,Marketing kỹ thuật số,Marketing kỹ thuật số
+160,course_label,126378,Sáng tạo sách nói,Sáng tạo sách nói
+164,course_label,7640,Viết và sáng tác kịch bản,Viết và sáng tác kịch bản
+164,course_label,4618,Liệu pháp nghệ thuật,Liệu pháp nghệ thuật
+164,course_label,8472,Viết,Viết
+164,course_label,4816,Viết sách,Viết sách
+164,course_label,7910,Kể chuyện,Kể chuyện
+164,course_label,7676,Tự xuất bản,Tự xuất bản
+164,course_label,5278,Khả năng sáng tạo,Khả năng sáng tạo
+164,course_label,6940,Viết tiểu thuyết,Viết tiểu thuyết
+166,course_label,5156,Kỹ năng giao tiếp,Kỹ năng giao tiếp
+166,course_label,7144,Thuyết phục,Thuyết phục
+166,course_label,4892,Đàm phán,Đàm phán
+166,course_label,7368,Diễn thuyết trước công chúng,Diễn thuyết trước công chúng
+166,course_label,4808,Ngôn ngữ cơ thể,Ngôn ngữ cơ thể
+166,course_label,5624,Ngữ pháp tiếng Anh,Ngữ pháp tiếng Anh
+166,course_label,6228,Kỹ năng gây ảnh hưởng,Kỹ năng gây ảnh hưởng
+166,course_label,5202,Tự tin,Tự tin
+168,course_label,7672,Lòng tự trọng,Lòng tự trọng
+168,course_label,5156,Kỹ năng giao tiếp,Kỹ năng giao tiếp
+168,course_label,7138,Phát triển cá nhân,Phát triển cá nhân
+168,course_label,7792,Kỹ năng xã hội,Kỹ năng xã hội
+168,course_label,5320,Khiêu vũ,Khiêu vũ
+168,course_label,158080,Liệu pháp Family Constellations,Liệu pháp Family Constellations
+168,course_label,10684,Đào tạo huấn luyện viên định hướng cuộc sống,Đào tạo huấn luyện viên định hướng cuộc sống
+168,course_label,5692,Nghi thức giao tiếp,Nghi thức giao tiếp
+170,course_label,155286,Quản lý rối loạn lo âu,Quản lý rối loạn lo âu
+170,course_label,5604,Trí tuệ cảm xúc,Trí tuệ cảm xúc
+170,course_label,7502,Khả năng hồi phục,Khả năng hồi phục
+170,course_label,4474,Kiểm soát nóng giận,Kiểm soát nóng giận
+170,course_label,11098,Huấn luyện,Huấn luyện
+170,course_label,23948,Liệu pháp âm thanh,Liệu pháp âm thanh
+170,course_label,6770,Chánh niệm,Chánh niệm
+170,course_label,5608,Làm chủ cảm xúc của bạn,Làm chủ cảm xúc của bạn
+172,course_label,7840,Đọc hiểu nhanh,Đọc hiểu nhanh
+172,course_label,6506,Chiến lược học tập,Chiến lược học tập
+172,course_label,7924,Kỹ năng học tập,Kỹ năng học tập
+172,course_label,90760,Làm chủ khả năng tập trung,Làm chủ khả năng tập trung
+172,course_label,6766,Lập bản đồ tư duy,Lập bản đồ tư duy
+172,course_label,5292,Tư duy phản biện,Tư duy phản biện
+172,course_label,19174,Khuyết tật học tập,Khuyết tật học tập
+172,course_label,4624,Trí tuệ nhân tạo,Trí tuệ nhân tạo
+176,course_label,6818,Động lực,Động lực
+176,course_label,6910,Lập trình ngôn ngữ tư duy,Lập trình ngôn ngữ tư duy
+176,course_label,7320,Tính trì hoãn,Tính trì hoãn
+176,course_label,11098,Huấn luyện,Huấn luyện
+176,course_label,6048,Thói quen,Thói quen
+176,course_label,5970,Đặt mục tiêu,Đặt mục tiêu
+176,course_label,6916,Khoa học thần kinh,Khoa học thần kinh
+176,course_label,5448,Tự kỷ luật,Tự kỷ luật
+178,course_label,26734,Môi giới vận chuyển hàng hóa,Môi giới vận chuyển hàng hóa
+178,course_label,4942,Sửa xe,Sửa xe
+178,course_label,6172,Liệu pháp thôi miên,Liệu pháp thôi miên
+178,course_label,7138,Phát triển cá nhân,Phát triển cá nhân
+178,course_label,6584,Giấc mơ sáng suốt,Giấc mơ sáng suốt
+178,course_label,7368,Diễn thuyết trước công chúng,Diễn thuyết trước công chúng
+178,course_label,5824,Cách sơ cứu,Cách sơ cứu
+178,course_label,5320,Khiêu vũ,Khiêu vũ
+6,course_label,6784,Thiết kế ứng dụng mobile,Thiết kế ứng dụng mobile
+6,course_label,8452,WordPress,WordPress
+6,course_label,5306,CSS,CSS
+6,course_label,46554,Figma,Figma
+6,course_label,38988,Elementor,Elementor
+6,course_label,8172,Thiết kế giao diện người dùng,Thiết kế giao diện người dùng
+6,course_label,6148,HTML,HTML
+6,course_label,8322,Phát triển web,Phát triển web
+110,course_label,4394,Adobe Illustrator,Adobe Illustrator
+110,course_label,4402,Adobe Photoshop,Adobe Photoshop
+110,course_label,8592,Canva,Canva
+110,course_label,5494,Vẽ,Vẽ
+110,course_label,4396,Adobe InDesign,Adobe InDesign
+110,course_label,33938,Lý thuyết thiết kế,Lý thuyết thiết kế
+110,course_label,48410,Ứng dụng vẽ hình minh họa kỹ thuật số Procreate,Ứng dụng vẽ hình minh họa kỹ thuật số Procreate
+110,course_label,5434,Tranh kỹ thuật số,Tranh kỹ thuật số
+112,course_label,158096,Midjourney,Midjourney
+112,course_label,4402,Adobe Photoshop,Adobe Photoshop
+112,course_label,7818,SOLIDWORKS,SOLIDWORKS
+112,course_label,4374,Adobe After Effects,Adobe After Effects
+112,course_label,48410,Ứng dụng vẽ hình minh họa kỹ thuật số Procreate,Ứng dụng vẽ hình minh họa kỹ thuật số Procreate
+112,course_label,46554,Figma,Figma
+112,course_label,158002,ChatGPT,ChatGPT
+112,course_label,4394,Adobe Illustrator,Adobe Illustrator
+114,course_label,46554,Figma,Figma
+114,course_label,8172,Thiết kế giao diện người dùng,Thiết kế giao diện người dùng
+114,course_label,157916,Viết nội dung trải nghiệm người dùng (UX),Viết nội dung trải nghiệm người dùng (UX)
+114,course_label,7326,Thiết kế sản phẩm,Thiết kế sản phẩm
+114,course_label,12290,Adobe XD,Adobe XD
+114,course_label,10874,Tư duy thiết kế,Tư duy thiết kế
+114,course_label,8308,Khả năng truy cập web,Khả năng truy cập web
+114,course_label,8320,Thiết kế web,Thiết kế web
+116,course_label,7204,Nghệ thuật pixel,Nghệ thuật pixel
+116,course_label,5902,Thiết kế trò chơi,Thiết kế trò chơi
+116,course_label,8154,Unity,Unity
+116,course_label,4790,Blender,Blender
+116,course_label,5904,Nguyên tắc cơ bản về phát triển trò chơi,Nguyên tắc cơ bản về phát triển trò chơi
+116,course_label,8204,Hiệu ứng hình ảnh (VFX),Hiệu ứng hình ảnh (VFX)
+116,course_label,6508,Thiết kế các màn chơi,Thiết kế các màn chơi
+116,course_label,4284,Dựng mô hình 3D,Dựng mô hình 3D
+120,course_label,4284,Dựng mô hình 3D,Dựng mô hình 3D
+120,course_label,4374,Adobe After Effects,Adobe After Effects
+120,course_label,6816,Đồ họa chuyển động,Đồ họa chuyển động
+120,course_label,4286,In 3D,In 3D
+120,course_label,14262,Fusion 360,Fusion 360
+120,course_label,4276,Hoạt hình 3D,Hoạt hình 3D
+120,course_label,8166,Unreal Engine,Unreal Engine
+120,course_label,8524,zBrush,zBrush
+122,course_label,5762,Thời trang,Thời trang
+122,course_label,157836,Tạo mẫu hoa văn (thời trang),Tạo mẫu hoa văn (thời trang)
+122,course_label,7708,May vá,May vá
+122,course_label,158214,Thiết kế thời trang 3D,Thiết kế thời trang 3D
+122,course_label,6384,Thiết kế trang sức,Thiết kế trang sức
+122,course_label,4394,Adobe Illustrator,Adobe Illustrator
+122,course_label,157150,Dệt may,Dệt may
+122,course_label,6386,Làm đồ trang sức,Làm đồ trang sức
+124,course_label,4674,AutoCAD,AutoCAD
+124,course_label,11894,Thiết kế kiến trúc,Thiết kế kiến trúc
+124,course_label,7760,SketchUp,SketchUp
+124,course_label,24668,LEED,LEED
+124,course_label,62610,ARCHICAD,ARCHICAD
+124,course_label,4772,Xây dựng mô hình thông tin công trình (BIM),Xây dựng mô hình thông tin công trình (BIM)
+124,course_label,4284,Dựng mô hình 3D,Dựng mô hình 3D
+124,course_label,4910,Phần mềm CAD,Phần mềm CAD
+128,course_label,7760,SketchUp,SketchUp
+128,course_label,40062,"HVAC (Hệ thống sưởi ấm, thông gió và điều hoà không khí)","HVAC (Hệ thống sưởi ấm, thông gió và điều hoà không khí)"
+128,course_label,5144,Lý thuyết màu,Lý thuyết màu
+128,course_label,22220,Thiết kế ánh sáng,Thiết kế ánh sáng
+128,course_label,158078,Generative AI  (GenAI),Generative AI  (GenAI)
+128,course_label,4684,Revit,Revit
+128,course_label,23190,Tân trang nhà cửa để rao bán,Tân trang nhà cửa để rao bán
+128,course_label,15454,Kỹ thuật điện,Kỹ thuật điện
+130,course_label,5042,Thiết kế bảng mạch in,Thiết kế bảng mạch in
+130,course_label,5002,Thiết kế nhân vật,Thiết kế nhân vật
+130,course_label,5494,Vẽ,Vẽ
+130,course_label,4974,CATIA,CATIA
+130,course_label,4674,AutoCAD,AutoCAD
+130,course_label,155843,Hệ thống xác định kích thước và dung sai hình học (GD&T),Hệ thống xác định kích thước và dung sai hình học (GD&T)
+130,course_label,9192,Microservices,Microservices
+130,course_label,7800,Kiến trúc phần mềm,Kiến trúc phần mềm
+62,course_label,7788,Marketing trên mạng xã hội,Marketing trên mạng xã hội
+62,course_label,6630,Chiến lược marketing,Chiến lược marketing
+62,course_label,6994,Marketing trên Internet,Marketing trên Internet
+62,course_label,158002,ChatGPT,ChatGPT
+62,course_label,5242,Viết quảng cáo,Viết quảng cáo
+62,course_label,5980,Google Analytics,Google Analytics
+62,course_label,7558,Phễu bán hàng,Phễu bán hàng
+62,course_label,7888,Startup,Startup
+64,course_label,8452,WordPress,WordPress
+64,course_label,6448,Nghiên cứu từ khóa,Nghiên cứu từ khóa
+64,course_label,34230,Google My Business - Hồ sơ kinh doanh,Google My Business - Hồ sơ kinh doanh
+64,course_label,7686,SEO (Kiểm tra tối ưu hóa công cụ tìm kiếm),SEO (Kiểm tra tối ưu hóa công cụ tìm kiếm)
+64,course_label,9848,SEO cục bộ,SEO cục bộ
+64,course_label,6534,Xây dựng liên kết,Xây dựng liên kết
+64,course_label,158002,ChatGPT,ChatGPT
+64,course_label,31266,SEMrush,SEMrush
+66,course_label,6252,Marketing trên Instagram,Marketing trên Instagram
+66,course_label,155572,Facebook Ads,Facebook Ads
+66,course_label,7786,Quản lý mạng xã hội,Quản lý mạng xã hội
+66,course_label,5744,Marketing trên Facebook,Marketing trên Facebook
+66,course_label,155456,Marketing trên TikTok,Marketing trên TikTok
+66,course_label,7098,Quảng cáo PPC,Quảng cáo PPC
+66,course_label,8522,Marketing trên YouTube,Marketing trên YouTube
+66,course_label,158078,Generative AI  (GenAI),Generative AI  (GenAI)
+68,course_label,7136,Xây dựng thương hiệu cá nhân,Xây dựng thương hiệu cá nhân
+68,course_label,10368,Quản lý thương hiệu,Quản lý thương hiệu
+68,course_label,8520,Tăng lượng người xem trên YouTube,Tăng lượng người xem trên YouTube
+68,course_label,8522,Marketing trên YouTube,Marketing trên YouTube
+68,course_label,6630,Chiến lược marketing,Chiến lược marketing
+68,course_label,35346,Quản lý danh tiếng,Quản lý danh tiếng
+68,course_label,27214,Quản lý marketing,Quản lý marketing
+68,course_label,5312,Dịch vụ khách hàng,Dịch vụ khách hàng
+70,course_label,5242,Viết quảng cáo,Viết quảng cáo
+70,course_label,5432,Dân du mục kĩ thuật số,Dân du mục kĩ thuật số
+70,course_label,5700,Lên kế hoạch sự kiện,Lên kế hoạch sự kiện
+70,course_label,39532,Kinh doanh đào tạo và tư vấn,Kinh doanh đào tạo và tư vấn
+70,course_label,155720,Tâm lý học marketing,Tâm lý học marketing
+70,course_label,27214,Quản lý marketing,Quản lý marketing
+70,course_label,158002,ChatGPT,ChatGPT
+70,course_label,6628,Nghiên cứu thị trường,Nghiên cứu thị trường
+72,course_label,10772,Phân tích số liệu tiếp thị,Phân tích số liệu tiếp thị
+72,course_label,10500,HubSpot,HubSpot
+72,course_label,6000,Trình quản lý thẻ của Google,Trình quản lý thẻ của Google
+72,course_label,5328,Phân tích dữ liệu,Phân tích dữ liệu
+72,course_label,6632,Marketo,Marketo
+72,course_label,155468,Chứng chỉ cá nhân (IQ) về Google Analytics,Chứng chỉ cá nhân (IQ) về Google Analytics
+72,course_label,22718,Tự động hóa marketing,Tự động hóa marketing
+72,course_label,6630,Chiến lược marketing,Chiến lược marketing
+74,course_label,5156,Kỹ năng giao tiếp,Kỹ năng giao tiếp
+74,course_label,7786,Quản lý mạng xã hội,Quản lý mạng xã hội
+74,course_label,6672,Đào tạo truyền thông,Đào tạo truyền thông
+74,course_label,5700,Lên kế hoạch sự kiện,Lên kế hoạch sự kiện
+74,course_label,7228,Xuất bản podcast,Xuất bản podcast
+74,course_label,4874,Giao tiếp kinh doanh,Giao tiếp kinh doanh
+74,course_label,157650,Kỹ năng phỏng vấn cho nội dung truyền thông,Kỹ năng phỏng vấn cho nội dung truyền thông
+74,course_label,7368,Diễn thuyết trước công chúng,Diễn thuyết trước công chúng
+76,course_label,155572,Facebook Ads,Facebook Ads
+76,course_label,7098,Quảng cáo PPC,Quảng cáo PPC
+76,course_label,9838,Chứng chỉ Google Ads,Chứng chỉ Google Ads
+76,course_label,4406,Chiến lược quảng cáo,Chiến lược quảng cáo
+76,course_label,7516,Nhắm mục tiêu lại,Nhắm mục tiêu lại
+76,course_label,8522,Marketing trên YouTube,Marketing trên YouTube
+76,course_label,155560,Tự động mua khoảng không quảng cáo,Tự động mua khoảng không quảng cáo
+76,course_label,5242,Viết quảng cáo,Viết quảng cáo
+78,course_label,8520,Tăng lượng người xem trên YouTube,Tăng lượng người xem trên YouTube
+78,course_label,8208,Sáng tạo video,Sáng tạo video
+78,course_label,6744,PowerPoint,PowerPoint
+78,course_label,8210,Chỉnh sửa video,Chỉnh sửa video
+78,course_label,8216,Sản xuất video,Sản xuất video
+78,course_label,4578,Marketing ứng dụng,Marketing ứng dụng
+78,course_label,8214,Marketing qua video,Marketing qua video
+78,course_label,158078,Generative AI  (GenAI),Generative AI  (GenAI)
+80,course_label,5242,Viết quảng cáo,Viết quảng cáo
+80,course_label,8630,Marketing qua nội dung,Marketing qua nội dung
+80,course_label,4796,Viết blog,Viết blog
+80,course_label,8472,Viết,Viết
+80,course_label,157488,AI Content Generation,AI Content Generation
+80,course_label,34972,Sáng tạo nội dung,Sáng tạo nội dung
+80,course_label,158002,ChatGPT,ChatGPT
+80,course_label,4902,Viết bài thương mại,Viết bài thương mại
+86,course_label,6036,Hack tăng trưởng,Hack tăng trưởng
+86,course_label,7094,Thu nhập thụ động,Thu nhập thụ động
+86,course_label,155572,Facebook Ads,Facebook Ads
+86,course_label,8520,Tăng lượng người xem trên YouTube,Tăng lượng người xem trên YouTube
+86,course_label,4578,Marketing ứng dụng,Marketing ứng dụng
+86,course_label,158002,ChatGPT,ChatGPT
+86,course_label,6630,Chiến lược marketing,Chiến lược marketing
+86,course_label,157494,Marketing dựa trên tài khoản (ABM),Marketing dựa trên tài khoản (ABM)
+88,course_label,5070,ClickBank,ClickBank
+88,course_label,73900,Google Ads (Adwords),Google Ads (Adwords)
+88,course_label,7652,Tối ưu hóa công cụ tìm kiếm (SEO),Tối ưu hóa công cụ tìm kiếm (SEO)
+88,course_label,4450,Marketing liên kết với Amazon,Marketing liên kết với Amazon
+88,course_label,34438,Tiếp thị qua KOL,Tiếp thị qua KOL
+88,course_label,6630,Chiến lược marketing,Chiến lược marketing
+88,course_label,552832,TikTok Shop,TikTok Shop
+88,course_label,158098,Stable Diffusion,Stable Diffusion
+90,course_label,2114625,Marketing sản phẩm,Marketing sản phẩm
+90,course_label,26112,Phần mềm như một dịch vụ (SaaS),Phần mềm như một dịch vụ (SaaS)
+90,course_label,7676,Tự xuất bản,Tự xuất bản
+90,course_label,7328,Quản lý sản phẩm,Quản lý sản phẩm
+90,course_label,4814,Marketing sách,Marketing sách
+90,course_label,7680,Bán hàng trên Amazon,Bán hàng trên Amazon
+90,course_label,36448,Quy trình ra mắt sản phẩm,Quy trình ra mắt sản phẩm
+90,course_label,11392,Bán hàng B2B,Bán hàng B2B
+94,course_label,10632,Tối ưu hóa tốc độ chuyển đổi,Tối ưu hóa tốc độ chuyển đổi
+94,course_label,5700,Lên kế hoạch sự kiện,Lên kế hoạch sự kiện
+94,course_label,6630,Chiến lược marketing,Chiến lược marketing
+94,course_label,5430,Marketing kỹ thuật số,Marketing kỹ thuật số
+94,course_label,6000,Trình quản lý thẻ của Google,Trình quản lý thẻ của Google
+94,course_label,155720,Tâm lý học marketing,Tâm lý học marketing
+94,course_label,37874,Quản lý trải nghiệm khách hàng,Quản lý trải nghiệm khách hàng
+94,course_label,5888,Gây quỹ,Gây quỹ
+180,course_label,8302,Tranh màu nước,Tranh màu nước
+180,course_label,7070,Hội họa,Hội họa
+180,course_label,10470,Vẽ dáng người,Vẽ dáng người
+180,course_label,30150,Làm nến,Làm nến
+180,course_label,7758,Vẽ phác thảo,Vẽ phác thảo
+180,course_label,7108,Vẽ bằng bút chì,Vẽ bằng bút chì
+180,course_label,4336,Tranh acrylic,Tranh acrylic
+180,course_label,6984,Tranh sơn dầu,Tranh sơn dầu
+184,course_label,33914,Nghệ thuật trang điểm,Nghệ thuật trang điểm
+184,course_label,7762,Chăm sóc da,Chăm sóc da
+184,course_label,6870,Nghệ thuật làm móng,Nghệ thuật làm móng
+184,course_label,6052,Tạo kiểu tóc,Tạo kiểu tóc
+184,course_label,7126,Nước hoa,Nước hoa
+184,course_label,5256,Mỹ phẩm,Mỹ phẩm
+184,course_label,5740,Nâng cơ mặt,Nâng cơ mặt
+184,course_label,157286,Triệt lông,Triệt lông
+577,course_label,5618,Chữa bệnh bằng năng lượng,Chữa bệnh bằng năng lượng
+577,course_label,7992,Bói bài Tarot,Bói bài Tarot
+577,course_label,7842,Chữa bệnh bằng tâm linh,Chữa bệnh bằng tâm linh
+577,course_label,6172,Liệu pháp thôi miên,Liệu pháp thôi miên
+577,course_label,4644,Chiêm tinh học,Chiêm tinh học
+577,course_label,7354,Ngoại cảm,Ngoại cảm
+577,course_label,7844,Tâm linh,Tâm linh
+577,course_label,4428,Tàng thư Akasha,Tàng thư Akasha
+182,course_label,7096,Bánh ngàn lớp,Bánh ngàn lớp
+182,course_label,4744,Cocktails and Bartending,Cocktails and Bartending
+182,course_label,5120,Cà phê,Cà phê
+182,course_label,7828,Nướng bánh mì men tự nhiên,Nướng bánh mì men tự nhiên
+182,course_label,4838,Nướng bánh mì,Nướng bánh mì
+182,course_label,8422,"Nghiên cứu, sản xuất và thưởng thức rượu","Nghiên cứu, sản xuất và thưởng thức rượu"
+182,course_label,4728,Nướng bánh,Nướng bánh
+182,course_label,25498,Nướng bánh ngọt,Nướng bánh ngọt
+188,course_label,39804,Chơi game,Chơi game
+188,course_label,7236,Xì tố,Xì tố
+188,course_label,5672,eSports,eSports
+188,course_label,10428,Open Broadcaster,Open Broadcaster
+188,course_label,8120,Twitch,Twitch
+188,course_label,5002,Thiết kế nhân vật,Thiết kế nhân vật
+188,course_label,28890,Liên Minh Huyền Thoại,Liên Minh Huyền Thoại
+188,course_label,13544,Cò quay (Roulette),Cò quay (Roulette)
+190,course_label,6118,Sửa chữa nhà,Sửa chữa nhà
+190,course_label,5922,Làm vườn,Làm vườn
+190,course_label,93351,Kỹ thuật đi dây điện,Kỹ thuật đi dây điện
+190,course_label,5760,Làm nông trại,Làm nông trại
+190,course_label,158190,Nuôi trồng nấm,Nuôi trồng nấm
+190,course_label,7130,Nông nghiệp vĩnh cửu,Nông nghiệp vĩnh cửu
+190,course_label,4760,Nuôi ong,Nuôi ong
+190,course_label,8450,Woodworking and Carpentry,Woodworking and Carpentry
+192,course_label,5474,Chăm sóc cún,Chăm sóc cún
+192,course_label,91306,Hành vi của cún cưng,Hành vi của cún cưng
+192,course_label,39344,Cách cưỡi ngựa,Cách cưỡi ngựa
+192,course_label,7148,Huấn luyện thú cưng,Huấn luyện thú cưng
+192,course_label,7146,Chăm sóc thú cưng,Chăm sóc thú cưng
+192,course_label,4972,Hành vi của mèo,Hành vi của mèo
+192,course_label,126232,Dinh dưỡng cho động vật,Dinh dưỡng cho động vật
+192,course_label,8198,Thuốc thú y,Thuốc thú y
+186,course_label,4424,Cho thuê nhà trên Airbnb,Cho thuê nhà trên Airbnb
+186,course_label,22610,Viết bài du lịch,Viết bài du lịch
+186,course_label,7254,Tiếng Bồ Đào Nha,Tiếng Bồ Đào Nha
+186,course_label,7552,Đi thuyền,Đi thuyền
+186,course_label,155546,Kinh doanh lữ hành,Kinh doanh lữ hành
+186,course_label,5432,Dân du mục kĩ thuật số,Dân du mục kĩ thuật số
+186,course_label,6398,Viết báo,Viết báo
+186,course_label,6214,Nhập cư,Nhập cư
+194,course_label,5566,EFT (Kỹ thuật giải phóng cảm xúc),EFT (Kỹ thuật giải phóng cảm xúc)
+194,course_label,6680,Thiền định,Thiền định
+194,course_label,5604,Trí tuệ cảm xúc,Trí tuệ cảm xúc
+194,course_label,5124,Cognitive Behavioral Therapy (CBT),Cognitive Behavioral Therapy (CBT)
+194,course_label,6088,Thảo dược học,Thảo dược học
+194,course_label,6770,Chánh niệm,Chánh niệm
+194,course_label,4416,Marketing liên kết,Marketing liên kết
+194,course_label,8522,Marketing trên YouTube,Marketing trên YouTube
+370,course_label,7166,Nhiếp ảnh,Nhiếp ảnh
+370,course_label,4398,Adobe Lightroom,Adobe Lightroom
+370,course_label,4932,Chức năng máy ảnh số,Chức năng máy ảnh số
+370,course_label,6794,Nghệ thuật chụp ảnh mobile,Nghệ thuật chụp ảnh mobile
+370,course_label,5436,Nhiếp ảnh kỹ thuật số,Nhiếp ảnh kỹ thuật số
+370,course_label,5948,GIMP,GIMP
+370,course_label,4402,Adobe Photoshop,Adobe Photoshop
+370,course_label,4276,Hoạt hình 3D,Hoạt hình 3D
+196,course_label,7168,Bố cục ảnh,Bố cục ảnh
+196,course_label,5436,Nhiếp ảnh kỹ thuật số,Nhiếp ảnh kỹ thuật số
+196,course_label,7332,Chụp ảnh sản phẩm,Chụp ảnh sản phẩm
+196,course_label,6794,Nghệ thuật chụp ảnh mobile,Nghệ thuật chụp ảnh mobile
+196,course_label,6298,Nghệ thuật chụp ảnh bằng iPhone,Nghệ thuật chụp ảnh bằng iPhone
+196,course_label,6486,Nghệ thuật chụp ảnh phong cảnh,Nghệ thuật chụp ảnh phong cảnh
+196,course_label,6924,Nghệ thuật chụp ảnh ban đêm,Nghệ thuật chụp ảnh ban đêm
+196,course_label,5860,Nghệ thuật chụp ảnh ẩm thực,Nghệ thuật chụp ảnh ẩm thực
+204,course_label,7170,Chiếu sáng ảnh,Chiếu sáng ảnh
+204,course_label,7172,Tạo dáng,Tạo dáng
+204,course_label,7166,Nhiếp ảnh,Nhiếp ảnh
+204,course_label,7522,Chỉnh sửa ảnh bằng Photoshop,Chỉnh sửa ảnh bằng Photoshop
+204,course_label,5752,Nghệ thuật chụp ảnh chân dung gia đình,Nghệ thuật chụp ảnh chân dung gia đình
+204,course_label,11990,Kinh doanh nhiếp ảnh,Kinh doanh nhiếp ảnh
+204,course_label,5838,Nghệ thuật chụp ảnh dùng đèn flash,Nghệ thuật chụp ảnh dùng đèn flash
+204,course_label,6210,Chỉnh sửa hình ảnh,Chỉnh sửa hình ảnh
+198,course_label,4402,Adobe Photoshop,Adobe Photoshop
+198,course_label,6210,Chỉnh sửa hình ảnh,Chỉnh sửa hình ảnh
+198,course_label,4420,Affinity Photo,Affinity Photo
+198,course_label,4932,Chức năng máy ảnh số,Chức năng máy ảnh số
+198,course_label,7522,Chỉnh sửa ảnh bằng Photoshop,Chỉnh sửa ảnh bằng Photoshop
+198,course_label,7166,Nhiếp ảnh,Nhiếp ảnh
+198,course_label,5498,Nghệ thuật chụp ảnh trên không và drone,Nghệ thuật chụp ảnh trên không và drone
+198,course_label,5948,GIMP,GIMP
+208,course_label,11990,Kinh doanh nhiếp ảnh,Kinh doanh nhiếp ảnh
+208,course_label,4606,Nghệ thuật chụp ảnh kiến trúc,Nghệ thuật chụp ảnh kiến trúc
+208,course_label,8368,Chụp ảnh đám cưới,Chụp ảnh đám cưới
+208,course_label,7522,Chỉnh sửa ảnh bằng Photoshop,Chỉnh sửa ảnh bằng Photoshop
+208,course_label,7332,Chụp ảnh sản phẩm,Chụp ảnh sản phẩm
+208,course_label,7166,Nhiếp ảnh,Nhiếp ảnh
+208,course_label,5860,Nghệ thuật chụp ảnh ẩm thực,Nghệ thuật chụp ảnh ẩm thực
+208,course_label,5498,Nghệ thuật chụp ảnh trên không và drone,Nghệ thuật chụp ảnh trên không và drone
+218,course_label,4404,Adobe Premiere,Adobe Premiere
+218,course_label,8216,Sản xuất video,Sản xuất video
+218,course_label,5360,DaVinci Resolve,DaVinci Resolve
+218,course_label,4374,Adobe After Effects,Adobe After Effects
+218,course_label,5794,Làm phim,Làm phim
+218,course_label,5142,Phân loại màu sắc,Phân loại màu sắc
+218,course_label,157578,CapCut,CapCut
+218,course_label,7788,Marketing trên mạng xã hội,Marketing trên mạng xã hội
+220,course_label,7166,Nhiếp ảnh,Nhiếp ảnh
+220,course_label,5498,Nghệ thuật chụp ảnh trên không và drone,Nghệ thuật chụp ảnh trên không và drone
+220,course_label,158078,Generative AI  (GenAI),Generative AI  (GenAI)
+220,course_label,5794,Làm phim,Làm phim
+220,course_label,8210,Chỉnh sửa video,Chỉnh sửa video
+220,course_label,6004,GoPro,GoPro
+220,course_label,8208,Sáng tạo video,Sáng tạo video
+220,course_label,8204,Hiệu ứng hình ảnh (VFX),Hiệu ứng hình ảnh (VFX)
+222,course_label,7200,Pilates,Pilates
+222,course_label,8000,Đào tạo giảng viên,Đào tạo giảng viên
+222,course_label,29256,Kinh doanh huấn luyện viên cá nhân,Kinh doanh huấn luyện viên cá nhân
+222,course_label,6120,Luyện tập tại nhà,Luyện tập tại nhà
+222,course_label,2143146,Trị liệu tâm lý qua chuyển động,Trị liệu tâm lý qua chuyển động
+222,course_label,7918,Rèn luyện thể lực,Rèn luyện thể lực
+222,course_label,6840,Phát triển cơ bắp,Phát triển cơ bắp
+222,course_label,8376,Giảm cân,Giảm cân
+224,course_label,6088,Thảo dược học,Thảo dược học
+224,course_label,5746,Mát xa mặt,Mát xa mặt
+224,course_label,6110,Y học toàn diện,Y học toàn diện
+224,course_label,4612,Liệu pháp hương thơm,Liệu pháp hương thơm
+224,course_label,4842,Kỹ thuật hít thở,Kỹ thuật hít thở
+224,course_label,7478,Liệu pháp phản xạ,Liệu pháp phản xạ
+224,course_label,6876,Y học tự nhiên,Y học tự nhiên
+224,course_label,6078,Sức khỏe,Sức khỏe
+226,course_label,7778,Bóng đá,Bóng đá
+226,course_label,7958,Bơi lội,Bơi lội
+226,course_label,22292,Mát xa thể thao,Mát xa thể thao
+226,course_label,8024,Quần vợt,Quần vợt
+226,course_label,7852,Quản lý thể thao,Quản lý thể thao
+226,course_label,5974,Chơi gôn,Chơi gôn
+226,course_label,7850,Huấn luyện thể thao,Huấn luyện thể thao
+226,course_label,7548,Chạy bộ,Chạy bộ
+228,course_label,5412,Ăn kiêng,Ăn kiêng
+228,course_label,8376,Giảm cân,Giảm cân
+228,course_label,155410,Dinh dưỡng thể thao,Dinh dưỡng thể thao
+228,course_label,155400,Đào tạo huấn luyện viên sức khỏe,Đào tạo huấn luyện viên sức khỏe
+228,course_label,13200,Sức khỏe đường ruột,Sức khỏe đường ruột
+228,course_label,8190,Nấu món ăn chay,Nấu món ăn chay
+228,course_label,38986,Chế độ ăn keto,Chế độ ăn keto
+228,course_label,155710,HACCP (Phân tích mối nguy và điểm kiểm soát tới hạn),HACCP (Phân tích mối nguy và điểm kiểm soát tới hạn)
+230,course_label,7276,Pranayama,Pranayama
+230,course_label,4842,Kỹ thuật hít thở,Kỹ thuật hít thở
+230,course_label,8518,Yoga cho trẻ em,Yoga cho trẻ em
+230,course_label,102968,Tập Yoga với ghế,Tập Yoga với ghế
+230,course_label,5748,Tập yoga cho mặt,Tập yoga cho mặt
+230,course_label,7288,Yoga cho bà bầu,Yoga cho bà bầu
+230,course_label,4710,Ayurveda,Ayurveda
+230,course_label,6474,Kundalini,Kundalini
+232,course_label,4618,Liệu pháp nghệ thuật,Liệu pháp nghệ thuật
+232,course_label,26014,Sức khỏe tinh thần,Sức khỏe tinh thần
+232,course_label,7358,Tâm lý trị liệu,Tâm lý trị liệu
+232,course_label,155784,Liệu pháp chấp nhận và cam kết (ACT),Liệu pháp chấp nhận và cam kết (ACT)
+232,course_label,28826,Liệu pháp hành vi biện chứng (DBT),Liệu pháp hành vi biện chứng (DBT)
+232,course_label,96650,Chăm sóc dựa trên sự hiểu biết về sang chấn,Chăm sóc dựa trên sự hiểu biết về sang chấn
+232,course_label,5262,Tư vấn,Tư vấn
+232,course_label,24614,Tâm lý học,Tâm lý học
+236,course_label,7668,Tự vệ,Tự vệ
+236,course_label,6470,Krav Maga,Krav Maga
+236,course_label,4830,Đấm bốc,Đấm bốc
+236,course_label,41706,Võ Jitsu Brazil,Võ Jitsu Brazil
+236,course_label,7980,Thái cực quyền,Thái cực quyền
+236,course_label,5080,Cận chiến,Cận chiến
+236,course_label,8424,Vịnh Xuân quyền,Vịnh Xuân quyền
+236,course_label,6476,Võ công,Võ công
+238,course_label,8458,Sức khỏe và an toàn tại nơi làm việc,Sức khỏe và an toàn tại nơi làm việc
+238,course_label,6088,Thảo dược học,Thảo dược học
+238,course_label,7944,Kỹ năng sinh tồn,Kỹ năng sinh tồn
+238,course_label,25462,OSHA,OSHA
+238,course_label,5818,An toàn hỏa hoạn,An toàn hỏa hoạn
+238,course_label,155684,Chuẩn bị ứng phó trường hợp khẩn cấp cá nhân,Chuẩn bị ứng phó trường hợp khẩn cấp cá nhân
+238,course_label,18596,Dùng băng dán Kinesio,Dùng băng dán Kinesio
+238,course_label,155954,Duy trì sự sống trong điều trị chấn thương cấp tính (ATLS),Duy trì sự sống trong điều trị chấn thương cấp tính (ATLS)
+240,course_label,7574,Nhảy Salsa,Nhảy Salsa
+240,course_label,4764,Múa bụng,Múa bụng
+240,course_label,12186,Nhảy Bachata,Nhảy Bachata
+240,course_label,6098,Nhảy Hip Hop,Nhảy Hip Hop
+240,course_label,7232,Cách quay bóng Poi,Cách quay bóng Poi
+240,course_label,155646,Nhảy Tango,Nhảy Tango
+240,course_label,4732,Ba lê,Ba lê
+240,course_label,156110,Khiêu vũ Ấn Độ,Khiêu vũ Ấn Độ
+242,course_label,23948,Liệu pháp âm thanh,Liệu pháp âm thanh
+242,course_label,6770,Chánh niệm,Chánh niệm
+242,course_label,7484,Reiki,Reiki
+242,course_label,7398,Khí công,Khí công
+242,course_label,7988,Đát đặc la (Tantra),Đát đặc la (Tantra)
+242,course_label,5618,Chữa bệnh bằng năng lượng,Chữa bệnh bằng năng lượng
+242,course_label,4842,Kỹ thuật hít thở,Kỹ thuật hít thở
+242,course_label,2143146,Trị liệu tâm lý qua chuyển động,Trị liệu tâm lý qua chuyển động
+244,course_label,22292,Mát xa thể thao,Mát xa thể thao
+244,course_label,5746,Mát xa mặt,Mát xa mặt
+244,course_label,7398,Khí công,Khí công
+244,course_label,27248,Lập trình y khoa,Lập trình y khoa
+244,course_label,7842,Chữa bệnh bằng tâm linh,Chữa bệnh bằng tâm linh
+244,course_label,6678,Thuật ngữ y học,Thuật ngữ y học
+244,course_label,5566,EFT (Kỹ thuật giải phóng cảm xúc),EFT (Kỹ thuật giải phóng cảm xúc)
+244,course_label,18596,Dùng băng dán Kinesio,Dùng băng dán Kinesio
+296,course_label,7190,Dương cầm,Dương cầm
+296,course_label,6442,Nhạc cụ bàn phím,Nhạc cụ bàn phím
+296,course_label,4752,Ghita bass,Ghita bass
+296,course_label,8228,Vĩ cầm,Vĩ cầm
+296,course_label,5504,Trống,Trống
+296,course_label,8138,Đàn Ukulele,Đàn Ukulele
+296,course_label,7192,Hợp âm dương cầm,Hợp âm dương cầm
+296,course_label,6066,Kèn Harmonica,Kèn Harmonica
+298,course_label,10158,Ableton Live,Ableton Live
+298,course_label,16474,Logic Pro,Logic Pro
+298,course_label,5834,FL Studio,FL Studio
+298,course_label,6854,Phối nhạc,Phối nhạc
+298,course_label,6844,Sáng tác nhạc,Sáng tác nhạc
+298,course_label,4658,Kỹ thuật âm thanh,Kỹ thuật âm thanh
+298,course_label,8914,Thiết kế âm thanh,Thiết kế âm thanh
+298,course_label,5908,Âm nhạc trò chơi,Âm nhạc trò chơi
+300,course_label,6844,Sáng tác nhạc,Sáng tác nhạc
+300,course_label,7822,Sáng tác bài hát,Sáng tác bài hát
+300,course_label,5578,Nhạc điện tử,Nhạc điện tử
+300,course_label,7454,Đọc nhạc,Đọc nhạc
+300,course_label,5534,Luyện cảm âm,Luyện cảm âm
+300,course_label,7190,Dương cầm,Dương cầm
+300,course_label,6044,Hợp âm ghita,Hợp âm ghita
+300,course_label,4318,ABRSM (Hiệp hội các Trường Âm nhạc Hoàng gia),ABRSM (Hiệp hội các Trường Âm nhạc Hoàng gia)
+302,course_label,17652,Luyện giọng,Luyện giọng
+302,course_label,8286,Lồng tiếng,Lồng tiếng
+302,course_label,35508,Nhạc Raga,Nhạc Raga
+302,course_label,6680,Thiền định,Thiền định
+302,course_label,8516,Yoga,Yoga
+302,course_label,7442,Đọc rap,Đọc rap
+302,course_label,5202,Tự tin,Tự tin
+302,course_label,34528,Nhạc Carnatic,Nhạc Carnatic
+304,course_label,7822,Sáng tác bài hát,Sáng tác bài hát
+304,course_label,7454,Đọc nhạc,Đọc nhạc
+304,course_label,6844,Sáng tác nhạc,Sáng tác nhạc
+304,course_label,6860,Lý thuyết âm nhạc,Lý thuyết âm nhạc
+304,course_label,7190,Dương cầm,Dương cầm
+304,course_label,5814,Kỹ thuật chơi ghita Fingerstyle,Kỹ thuật chơi ghita Fingerstyle
+304,course_label,7192,Hợp âm dương cầm,Hợp âm dương cầm
+304,course_label,6042,Ghita,Ghita
+306,course_label,5834,FL Studio,FL Studio
+306,course_label,16474,Logic Pro,Logic Pro
+306,course_label,6856,Sản xuất nhạc,Sản xuất nhạc
+306,course_label,5918,GarageBand,GarageBand
+306,course_label,4654,Phần mềm Audacity,Phần mềm Audacity
+306,course_label,5468,DJ,DJ
+306,course_label,6854,Phối nhạc,Phối nhạc
+306,course_label,8914,Thiết kế âm thanh,Thiết kế âm thanh
+308,course_label,10794,Kinh doanh âm nhạc,Kinh doanh âm nhạc
+308,course_label,7822,Sáng tác bài hát,Sáng tác bài hát
+308,course_label,7442,Đọc rap,Đọc rap
+308,course_label,23948,Liệu pháp âm thanh,Liệu pháp âm thanh
+308,course_label,6852,Marketing qua âm nhạc,Marketing qua âm nhạc
+308,course_label,37804,Người quản lý nhân tài,Người quản lý nhân tài
+308,course_label,156062,Nghề làm và sửa đàn dây,Nghề làm và sửa đàn dây
+308,course_label,4332,Acoustics,Acoustics
+366,course_label,10186,Kỹ thuật cơ khí,Kỹ thuật cơ khí
+366,course_label,5574,Điện,Điện
+366,course_label,5054,Xây dựng dân dụng,Xây dựng dân dụng
+366,course_label,5580,Điện tử,Điện tử
+366,course_label,7814,Năng lượng mặt trời,Năng lượng mặt trời
+366,course_label,4694,Kỹ thuật ô tô,Kỹ thuật ô tô
+366,course_label,7536,Robotics,Robotics
+366,course_label,23506,Kỹ thuật năng lượng điện,Kỹ thuật năng lượng điện
+380,course_label,4616,Lịch sử nghệ thuật,Lịch sử nghệ thuật
+380,course_label,7892,Thống kê,Thống kê
+380,course_label,5028,Cơ đốc giáo,Cơ đốc giáo
+380,course_label,5628,Văn học Anh,Văn học Anh
+380,course_label,8060,Kinh thánh,Kinh thánh
+380,course_label,5292,Tư duy phản biện,Tư duy phản biện
+380,course_label,5124,Cognitive Behavioral Therapy (CBT),Cognitive Behavioral Therapy (CBT)
+380,course_label,4670,Tự kỷ,Tự kỷ
+310,course_label,4916,Giải tích,Giải tích
+310,course_label,7892,Thống kê,Thống kê
+310,course_label,4436,Đại số,Đại số
+310,course_label,6528,Đại số tuyến tính,Đại số tuyến tính
+310,course_label,7312,Xác suất,Xác suất
+310,course_label,8110,Lượng giác,Lượng giác
+310,course_label,5414,Phương trình vi phân,Phương trình vi phân
+310,course_label,5450,Toán rời rạc,Toán rời rạc
+312,course_label,28098,Chỉnh nha,Chỉnh nha
+312,course_label,27248,Lập trình y khoa,Lập trình y khoa
+312,course_label,5014,Hóa học,Hóa học
+312,course_label,158236,Lập trình viên chuyên nghiệp được chứng nhận (CPC),Lập trình viên chuyên nghiệp được chứng nhận (CPC)
+312,course_label,4468,Giải phẫu học,Giải phẫu học
+312,course_label,4778,Sinh học,Sinh học
+312,course_label,2038984,Chuyên viên đăng ký thuốc (DRA),Chuyên viên đăng ký thuốc (DRA)
+312,course_label,7414,Cơ học lượng tử (vật lý học),Cơ học lượng tử (vật lý học)
+523,course_label,6256,Thiết kế bài giảng,Thiết kế bài giảng
+523,course_label,8592,Canva,Canva
+523,course_label,7336,Quản lý dự án,Quản lý dự án
+523,course_label,155730,Dạy học online,Dạy học online
+523,course_label,158002,ChatGPT,ChatGPT
+523,course_label,20818,Kiến thức cơ bản về máy tính,Kiến thức cơ bản về máy tính
+523,course_label,6992,Kinh doanh online,Kinh doanh online
+523,course_label,5118,Lập trình cho trẻ em,Lập trình cho trẻ em
+376,course_label,5262,Tư vấn,Tư vấn
+376,course_label,5124,Cognitive Behavioral Therapy (CBT),Cognitive Behavioral Therapy (CBT)
+376,course_label,5554,Kinh tế học,Kinh tế học
+376,course_label,6598,Kinh tế vĩ mô,Kinh tế vĩ mô
+376,course_label,157642,Phân tích thông tin tình báo (an ninh),Phân tích thông tin tình báo (an ninh)
+376,course_label,6494,Pháp luật,Pháp luật
+376,course_label,156082,Tội phạm học,Tội phạm học
+376,course_label,7358,Tâm lý trị liệu,Tâm lý trị liệu
+521,course_label,5942,Tiếng Đức,Tiếng Đức
+521,course_label,5624,Ngữ pháp tiếng Anh,Ngữ pháp tiếng Anh
+521,course_label,7830,Tiếng Tây Ban Nha,Tiếng Tây Ban Nha
+521,course_label,5880,Tiếng Pháp,Tiếng Pháp
+521,course_label,6334,Tiếng Nhật,Tiếng Nhật
+521,course_label,5622,Hội thoại tiếng Anh,Hội thoại tiếng Anh
+521,course_label,5632,Từ vựng tiếng Anh,Từ vựng tiếng Anh
+521,course_label,6330,Tiếng Ý,Tiếng Ý
+527,course_label,8000,Đào tạo giảng viên,Đào tạo giảng viên
+527,course_label,5536,Giáo dục sớm,Giáo dục sớm
+527,course_label,6256,Thiết kế bài giảng,Thiết kế bài giảng
+527,course_label,5626,Anh ngữ,Anh ngữ
+527,course_label,155400,Đào tạo huấn luyện viên sức khỏe,Đào tạo huấn luyện viên sức khỏe
+527,course_label,5064,Quản lý lớp học,Quản lý lớp học
+527,course_label,8288,Thuyết minh,Thuyết minh
+527,course_label,11098,Huấn luyện,Huấn luyện
+529,course_label,8040,Kỹ năng làm bài kiểm tra,Kỹ năng làm bài kiểm tra
+529,course_label,7224,PMI Project Management Professional (PMP),PMI Project Management Professional (PMP)
+529,course_label,8086,TOEFL,TOEFL
+529,course_label,7220,PMI PMBOK (Hướng dẫn về những kiến thức cốt lõi trong quản lý dự án của Viện Quản lý Dự án Hoa Kỳ),PMI PMBOK (Hướng dẫn về những kiến thức cốt lõi trong quản lý dự án của Viện Quản lý Dự án Hoa Kỳ)
+529,course_label,5626,Anh ngữ,Anh ngữ
+529,course_label,7892,Thống kê,Thống kê
+529,course_label,107582,CCAT (Kiểm tra năng lực nhận thức theo tiêu chí),CCAT (Kiểm tra năng lực nhận thức theo tiêu chí)
+529,course_label,4818,Ghi sổ sách kế toán,Ghi sổ sách kế toán
+525,course_label,27248,Lập trình y khoa,Lập trình y khoa
+525,course_label,7500,Viết bài nghiên cứu,Viết bài nghiên cứu
+525,course_label,36454,Hiệu đính,Hiệu đính
+525,course_label,158002,ChatGPT,ChatGPT
+525,course_label,4322,Viết bài học thuật,Viết bài học thuật
+525,course_label,7708,May vá,May vá
+525,course_label,7992,Bói bài Tarot,Bói bài Tarot
+525,course_label,6674,Thanh toán hóa đơn y tế,Thanh toán hóa đơn y tế

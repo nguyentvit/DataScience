@@ -1,0 +1,132 @@
+id_categories,_class,id,title,type
+c871ab3a-bc04-4dcd-aa92-10ad2fc8a0f0_48_288,course_subcategory,8,Phát triển web,subcategory
+c871ab3a-bc04-4dcd-aa92-10ad2fc8a0f0_48_288,course_subcategory,558,Khoa học dữ liệu,subcategory
+c871ab3a-bc04-4dcd-aa92-10ad2fc8a0f0_48_288,course_subcategory,10,Phát triển ứng dụng di động,subcategory
+c871ab3a-bc04-4dcd-aa92-10ad2fc8a0f0_48_288,course_subcategory,12,Ngôn ngữ lập trình,subcategory
+c871ab3a-bc04-4dcd-aa92-10ad2fc8a0f0_48_288,course_subcategory,14,Phát triển trò chơi,subcategory
+c871ab3a-bc04-4dcd-aa92-10ad2fc8a0f0_48_288,course_subcategory,16,Thiết kế & Phát triển cơ sở dữ liệu,subcategory
+c871ab3a-bc04-4dcd-aa92-10ad2fc8a0f0_48_288,course_subcategory,18,Kiểm tra phần mềm,subcategory
+c871ab3a-bc04-4dcd-aa92-10ad2fc8a0f0_48_288,course_subcategory,20,Kỹ thuật phần mềm,subcategory
+c871ab3a-bc04-4dcd-aa92-10ad2fc8a0f0_48_288,course_subcategory,362,Công cụ phát triển phần mềm,subcategory
+c871ab3a-bc04-4dcd-aa92-10ad2fc8a0f0_48_288,course_subcategory,575,Viết phần mềm không cần biết lập trình,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,26,Tinh thần khởi nghiệp,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,28,Giao tiếp,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,30,Quản lý,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,32,Bán hàng,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,34,Chiến lược kinh doanh,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,36,Hoạt động,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,38,Quản lý dự án,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,40,Luật doanh nghiệp,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,44,BI và phân tích dữ liệu kinh doanh,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,48,Nhân sự,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,50,Ngành công nghiệp,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,354,Thương mại điện tử,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,52,Truyền thông,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,58,Bất động sản,subcategory
+da461ab9-dbc7-48d1-8635-fcff39b5b2b0_48_268,course_subcategory,60,Kinh doanh khác,subcategory
+8dffe904-3f4f-4626-9708-fb8d25538028_48_328,course_subcategory,530,Kế toán và ghi sổ sách kế toán,subcategory
+8dffe904-3f4f-4626-9708-fb8d25538028_48_328,course_subcategory,532,Tuân thủ,subcategory
+8dffe904-3f4f-4626-9708-fb8d25538028_48_328,course_subcategory,534,Tiền ảo & Blockchain,subcategory
+8dffe904-3f4f-4626-9708-fb8d25538028_48_328,course_subcategory,536,Kinh tế học,subcategory
+8dffe904-3f4f-4626-9708-fb8d25538028_48_328,course_subcategory,540,Tài chính,subcategory
+8dffe904-3f4f-4626-9708-fb8d25538028_48_328,course_subcategory,542,Luyện thi và lấy chứng chỉ tài chính,subcategory
+8dffe904-3f4f-4626-9708-fb8d25538028_48_328,course_subcategory,544,Xây dựng mô hình tài chính & phân tích,subcategory
+8dffe904-3f4f-4626-9708-fb8d25538028_48_328,course_subcategory,546,Đầu tư và giao dịch,subcategory
+8dffe904-3f4f-4626-9708-fb8d25538028_48_328,course_subcategory,548,Công cụ quản lý tiền,subcategory
+8dffe904-3f4f-4626-9708-fb8d25538028_48_328,course_subcategory,550,Thuế,subcategory
+8dffe904-3f4f-4626-9708-fb8d25538028_48_328,course_subcategory,552,Tài chính và kế toán khác,subcategory
+d12c4912-3113-40db-b28c-ff0412195535_48_294,course_subcategory,132,Chứng chỉ CNTT,subcategory
+d12c4912-3113-40db-b28c-ff0412195535_48_294,course_subcategory,134,Mạng & Bảo mật,subcategory
+d12c4912-3113-40db-b28c-ff0412195535_48_294,course_subcategory,136,Phần cứng,subcategory
+d12c4912-3113-40db-b28c-ff0412195535_48_294,course_subcategory,138,Hệ điều hành & Máy chủ,subcategory
+d12c4912-3113-40db-b28c-ff0412195535_48_294,course_subcategory,140,CNTT & Phần mềm khác,subcategory
+ae996d36-62be-4a0a-bc9b-253ad3f13e78_48_292,course_subcategory,96,Microsoft,subcategory
+ae996d36-62be-4a0a-bc9b-253ad3f13e78_48_292,course_subcategory,98,Apple,subcategory
+ae996d36-62be-4a0a-bc9b-253ad3f13e78_48_292,course_subcategory,100,Google,subcategory
+ae996d36-62be-4a0a-bc9b-253ad3f13e78_48_292,course_subcategory,102,SAP,subcategory
+ae996d36-62be-4a0a-bc9b-253ad3f13e78_48_292,course_subcategory,106,Oracle,subcategory
+ae996d36-62be-4a0a-bc9b-253ad3f13e78_48_292,course_subcategory,108,Năng suất làm việc với Office khác,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,142,Chuyển hóa bản thân,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,144,Năng suất cá nhân,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,146,Năng lực lãnh đạo,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,150,Phát triển sự nghiệp,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,152,Làm cha mẹ & Mối quan hệ,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,156,Hạnh phúc,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,577,Các phương pháp bí truyền,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,158,Tôn giáo & Tâm linh,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,160,Xây dựng thương hiệu cá nhân,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,164,Khả năng sáng tạo,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,166,Gây ảnh hưởng,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,168,Lòng tự tôn & Sự tự tin,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,170,Quản lý căng thẳng,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,172,Kỹ năng học tập và ghi nhớ,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,176,Động lực,subcategory
+d62e7ccf-c28a-463f-be4a-e7b5abfcbc76_48_296,course_subcategory,178,Phát triển cá nhân khác,subcategory
+66f602bb-87da-465c-828b-d1b31beee882_48_269,course_subcategory,6,Thiết kế web,subcategory
+66f602bb-87da-465c-828b-d1b31beee882_48_269,course_subcategory,110,Thiết kế & Minh họa đồ họa,subcategory
+66f602bb-87da-465c-828b-d1b31beee882_48_269,course_subcategory,112,Công cụ thiết kế,subcategory
+66f602bb-87da-465c-828b-d1b31beee882_48_269,course_subcategory,114,Thiết kế trải nghiệm người dùng,subcategory
+66f602bb-87da-465c-828b-d1b31beee882_48_269,course_subcategory,116,Thiết kế trò chơi,subcategory
+66f602bb-87da-465c-828b-d1b31beee882_48_269,course_subcategory,120,3D & Hoạt hình,subcategory
+66f602bb-87da-465c-828b-d1b31beee882_48_269,course_subcategory,122,Thiết kế thời trang,subcategory
+66f602bb-87da-465c-828b-d1b31beee882_48_269,course_subcategory,124,Thiết kế kiến trúc,subcategory
+66f602bb-87da-465c-828b-d1b31beee882_48_269,course_subcategory,128,Thiết kế nội thất,subcategory
+66f602bb-87da-465c-828b-d1b31beee882_48_269,course_subcategory,130,Thiết kế khác,subcategory
+8a8e3e21-a728-47f5-9663-4d8360baeab9_48_290,course_subcategory,62,Marketing kỹ thuật số,subcategory
+8a8e3e21-a728-47f5-9663-4d8360baeab9_48_290,course_subcategory,64,SEO,subcategory
+8a8e3e21-a728-47f5-9663-4d8360baeab9_48_290,course_subcategory,66,Marketing trên mạng xã hội,subcategory
+8a8e3e21-a728-47f5-9663-4d8360baeab9_48_290,course_subcategory,68,Xây dựng thương hiệu,subcategory
+8a8e3e21-a728-47f5-9663-4d8360baeab9_48_290,course_subcategory,70,Nguyên tắc cơ bản về marketing,subcategory
+8a8e3e21-a728-47f5-9663-4d8360baeab9_48_290,course_subcategory,72,Phân tích và tự động hóa marketing,subcategory
+8a8e3e21-a728-47f5-9663-4d8360baeab9_48_290,course_subcategory,74,Quan hệ công chúng,subcategory
+8a8e3e21-a728-47f5-9663-4d8360baeab9_48_290,course_subcategory,76,Quảng cáo có trả phí,subcategory
+8a8e3e21-a728-47f5-9663-4d8360baeab9_48_290,course_subcategory,78,Marketing qua video và trên thiết bị di động,subcategory
+8a8e3e21-a728-47f5-9663-4d8360baeab9_48_290,course_subcategory,80,Marketing qua nội dung,subcategory
+8a8e3e21-a728-47f5-9663-4d8360baeab9_48_290,course_subcategory,86,Hack tăng trưởng,subcategory
+8a8e3e21-a728-47f5-9663-4d8360baeab9_48_290,course_subcategory,88,Marketing liên kết,subcategory
+8a8e3e21-a728-47f5-9663-4d8360baeab9_48_290,course_subcategory,90,Marketing sản phẩm,subcategory
+8a8e3e21-a728-47f5-9663-4d8360baeab9_48_290,course_subcategory,94,Marketing khác,subcategory
+7e734be6-77c9-4103-8aaa-446b870452d2_48_274,course_subcategory,180,Nghệ thuật & Đồ thủ công,subcategory
+7e734be6-77c9-4103-8aaa-446b870452d2_48_274,course_subcategory,184,Làm đẹp & Trang điểm,subcategory
+7e734be6-77c9-4103-8aaa-446b870452d2_48_274,course_subcategory,577,Các phương pháp bí truyền,subcategory
+7e734be6-77c9-4103-8aaa-446b870452d2_48_274,course_subcategory,182,Thực phẩm & Đồ uống,subcategory
+7e734be6-77c9-4103-8aaa-446b870452d2_48_274,course_subcategory,188,Chơi game,subcategory
+7e734be6-77c9-4103-8aaa-446b870452d2_48_274,course_subcategory,190,Cải tạo nhà & Làm vườn,subcategory
+7e734be6-77c9-4103-8aaa-446b870452d2_48_274,course_subcategory,192,Chăm sóc & Huấn luyện thú cưng,subcategory
+7e734be6-77c9-4103-8aaa-446b870452d2_48_274,course_subcategory,186,Du lịch,subcategory
+7e734be6-77c9-4103-8aaa-446b870452d2_48_274,course_subcategory,194,Phong cách sống khác,subcategory
+216ebe85-df2e-4eb8-8793-3c3fc90a26e6_48_273,course_subcategory,370,Nhiếp ảnh kỹ thuật số,subcategory
+216ebe85-df2e-4eb8-8793-3c3fc90a26e6_48_273,course_subcategory,196,Nhiếp ảnh,subcategory
+216ebe85-df2e-4eb8-8793-3c3fc90a26e6_48_273,course_subcategory,204,Nghệ thuật chụp ảnh chân dung,subcategory
+216ebe85-df2e-4eb8-8793-3c3fc90a26e6_48_273,course_subcategory,198,Công cụ nhiếp ảnh,subcategory
+216ebe85-df2e-4eb8-8793-3c3fc90a26e6_48_273,course_subcategory,208,Nhiếp ảnh thương mại,subcategory
+216ebe85-df2e-4eb8-8793-3c3fc90a26e6_48_273,course_subcategory,218,Thiết kế video,subcategory
+216ebe85-df2e-4eb8-8793-3c3fc90a26e6_48_273,course_subcategory,220,Nhiếp ảnh & Video khác,subcategory
+73a5bac7-d3ae-4dba-97fe-7d18baaf37a7_48_276,course_subcategory,222,Thể dục,subcategory
+73a5bac7-d3ae-4dba-97fe-7d18baaf37a7_48_276,course_subcategory,224,Sức khỏe tổng quát,subcategory
+73a5bac7-d3ae-4dba-97fe-7d18baaf37a7_48_276,course_subcategory,226,Thể thao,subcategory
+73a5bac7-d3ae-4dba-97fe-7d18baaf37a7_48_276,course_subcategory,228,Dinh dưỡng & Ăn kiêng,subcategory
+73a5bac7-d3ae-4dba-97fe-7d18baaf37a7_48_276,course_subcategory,230,Yoga,subcategory
+73a5bac7-d3ae-4dba-97fe-7d18baaf37a7_48_276,course_subcategory,232,Sức khỏe tinh thần,subcategory
+73a5bac7-d3ae-4dba-97fe-7d18baaf37a7_48_276,course_subcategory,236,Võ thuật & Tự vệ,subcategory
+73a5bac7-d3ae-4dba-97fe-7d18baaf37a7_48_276,course_subcategory,238,An toàn & Sơ cứu,subcategory
+73a5bac7-d3ae-4dba-97fe-7d18baaf37a7_48_276,course_subcategory,240,Khiêu vũ,subcategory
+73a5bac7-d3ae-4dba-97fe-7d18baaf37a7_48_276,course_subcategory,242,Thiền định,subcategory
+73a5bac7-d3ae-4dba-97fe-7d18baaf37a7_48_276,course_subcategory,244,Sức khỏe & Thể dục khác,subcategory
+fc32da47-4825-4822-bd70-23f6036044a1_48_278,course_subcategory,296,Nhạc cụ,subcategory
+fc32da47-4825-4822-bd70-23f6036044a1_48_278,course_subcategory,298,Sản xuất nhạc,subcategory
+fc32da47-4825-4822-bd70-23f6036044a1_48_278,course_subcategory,300,Nguyên tắc cơ bản về âm nhạc,subcategory
+fc32da47-4825-4822-bd70-23f6036044a1_48_278,course_subcategory,302,Thanh nhạc,subcategory
+fc32da47-4825-4822-bd70-23f6036044a1_48_278,course_subcategory,304,Kỹ thuật âm nhạc,subcategory
+fc32da47-4825-4822-bd70-23f6036044a1_48_278,course_subcategory,306,Phần mềm âm nhạc,subcategory
+fc32da47-4825-4822-bd70-23f6036044a1_48_278,course_subcategory,308,Âm nhạc khác,subcategory
+c17bc8c9-1e7a-4092-9753-2a3786095793_48_300,course_subcategory,366,Kỹ thuật,subcategory
+c17bc8c9-1e7a-4092-9753-2a3786095793_48_300,course_subcategory,380,Nhân văn,subcategory
+c17bc8c9-1e7a-4092-9753-2a3786095793_48_300,course_subcategory,310,Toán học,subcategory
+c17bc8c9-1e7a-4092-9753-2a3786095793_48_300,course_subcategory,312,Khoa học,subcategory
+c17bc8c9-1e7a-4092-9753-2a3786095793_48_300,course_subcategory,523,Giáo dục online,subcategory
+c17bc8c9-1e7a-4092-9753-2a3786095793_48_300,course_subcategory,376,Khoa học xã hội,subcategory
+c17bc8c9-1e7a-4092-9753-2a3786095793_48_300,course_subcategory,521,Học ngôn ngữ,subcategory
+c17bc8c9-1e7a-4092-9753-2a3786095793_48_300,course_subcategory,527,Đào tạo giảng viên,subcategory
+c17bc8c9-1e7a-4092-9753-2a3786095793_48_300,course_subcategory,529,Luyện thi,subcategory
+c17bc8c9-1e7a-4092-9753-2a3786095793_48_300,course_subcategory,525,Giảng dạy & học thuật khác,subcategory
